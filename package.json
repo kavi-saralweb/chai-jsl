@@ -1,0 +1,12 @@
+{
+  "name": "chai-jsl",
+  "version": "0.0.1",
+  "description": "JSL assertion library for chai",
+  "main": "chai-jsl.js",
+  "author": "Shashank Shrivastava",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "JSL": "0.0.1"
+  }
+}
