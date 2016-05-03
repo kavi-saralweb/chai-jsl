@@ -5,7 +5,7 @@
   "main": "chai-jsl.js",
   "author": "Shashank Shrivastava",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "chai": "^3.5.0",
     "jsonlogic": "0.0.3"
   },
