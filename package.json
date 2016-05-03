@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "chai": "^3.5.0",
-    "jsonlogic": "0.0.3"
+    "jsonlogic": "0.0.5"
   },
   "repository": {
     "type": "git",
