@@ -1,6 +1,6 @@
 {
   "name": "chai-jsonlogic",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "jsonlogic assertion library for chai",
   "main": "chai-jsl.js",
   "author": "Shashank Shrivastava",
@@ -13,5 +13,4 @@
     "type": "git",
     "url": "https://github.com/kavi-saralweb/chai-jsonlogic"
   }
-
 }
