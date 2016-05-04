@@ -1,4 +1,4 @@
-var JSL = require('jsonlogic');
+var JSL = require('jsl');
 
 module.exports = function (chai, utils) {
     var Assertion = chai.Assertion,
