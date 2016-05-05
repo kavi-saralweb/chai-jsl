@@ -1,6 +1,6 @@
 {
   "name": "chai-jsl",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "jsl assertion library for chai",
   "main": "chai-jsl.js",
   "author": "Shashank Shrivastava",
@@ -18,5 +18,4 @@
     "grunt-contrib-copy": "*",
     "matchdep": "^1.0.0"
   }
-
 }
