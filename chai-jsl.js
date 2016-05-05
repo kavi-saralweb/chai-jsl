@@ -1,4 +1,4 @@
-var JSL = require('jsl');
+var JSL = require('lib-jsl');
 
 module.exports = function (chai, utils) {
     var Assertion = chai.Assertion,
