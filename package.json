@@ -1,17 +1,17 @@
 {
-  "name": "chai-jsonlogic",
+  "name": "chai-jsl",
   "version": "0.0.7",
-  "description": "jsonlogic assertion library for chai",
+  "description": "jsl assertion library for chai",
   "main": "chai-jsl.js",
   "author": "Shashank Shrivastava",
   "license": "MIT",
   "dependencies": {
     "chai": "^3.5.0",
-    "jsonlogic": ">=0.0.5"
+    "lib-jsl": ">=0.0.5"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kavi-saralweb/chai-jsonlogic"
+    "url": "https://github.com/kavi-saralweb/chai-jsl.git"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
