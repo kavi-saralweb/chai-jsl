@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "chai": "^3.5.0",
-    "lib-jsl": ">=0.0.5"
+    "lib-jsl": ">=0.0.15"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,10 @@
     "grunt": "^0.4.5",
     "grunt-contrib-copy": "*",
     "matchdep": "^1.0.0"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/auth-test-simple.js test/auth-test.js"
   }
+
+
 }

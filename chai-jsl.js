@@ -34,10 +34,10 @@ module.exports = function (chai, utils) {
         expect(rules).to.be.instanceof(Array);
         var query = [
             { expectedResponse : '$x'},
-            { $and : [ 
-                {$or : [ 
+            { $and : [
+                {$or : [
                     { $and: [
-                        { $bind : [ '$x', response] },
+                        { $bind : [ response, '$x'] },
                         { $bind : [ '$result', 'ok' ] }
                     ] },
                     { $bind : [ '$result', 'fail' ] }
